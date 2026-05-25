@@ -1,5 +1,5 @@
 <h3 align="center">⭐ End-to-End Data Analytics Project</h3>
-<h1 align="center">📊 ECOMMERCE PROFITABILILY ANALYSIS</h1>
+<h1 align="center">📊 ECOMMERCE PROFITABILITY ANALYSIS</h1>
 
 <p align="center">
 
@@ -61,6 +61,7 @@
   - Reduce high-return categories impact (Electronics, Clothing) through better product targeting
 
  --- 
+ 
 ## 2. Problem Statement
 
 BrightCart has generated over $1M in gross revenue over the past two years, yet the company is experiencing declining net profit margins. This indicates that while sales performance is strong, underlying cost structures and operational inefficiencies are impacting overall profitability.
@@ -80,6 +81,7 @@ This analysis aims to provide data-driven insights to help the CEO make informed
 -	Minimizing the financial impact of returns
 
  --- 
+ 
 ## 3. Data Overview
 - **Data Source(s):** Order-level transactions, Product catalog (cost data), Marketing spend data
 - **Time Period:** 2024- 2025
@@ -178,6 +180,8 @@ This analysis aims to provide data-driven insights to help the CEO make informed
 | Total Marketing Spend | $503,506.14 | Total money spent on marketing |
 | Overall ROAS | 16.18 | Return on ad spend |
 
+---
+
 ## 8. Visualizations
 
 - **Chart 1:** High-cost drive low margin in certain categories
@@ -191,7 +195,8 @@ This analysis aims to provide data-driven insights to help the CEO make informed
 - **Chart 3:** Return rates range from 5.7% to 8.6% , Electronics (8.6%) have higher return rate as compared to Food & Beverages (5.6%)
 
   ![return rate by category](Images/return_rate_by_category.png)
-  
+
+  ---
 
 ## 9. Dashboard overview
 
@@ -203,39 +208,39 @@ This analysis aims to provide data-driven insights to help the CEO make informed
 
 ### Recommendation 1: Optimized Marketing Spend (Cut Inefficient Periods & Platform)
 - **Action:**
-  - 	Cut Email Marketing (ROAS 4.8) Platform
-  - 	Cut Facebook Ads (ROAS 11) Platform spending by 8.5%
-  - 	Cut low-ROAS months (Mar 2025 ~10.37, Jul 2025 ~9.64, Sep 2025 ~6.77) spend by 30%
+  - Cut Email Marketing (ROAS 4.8) Platform
+  - Cut Facebook Ads (ROAS 11) Platform spending by 8.5%
+  - Cut low-ROAS months (Mar 2025 ~10.37, Jul 2025 ~9.64, Sep 2025 ~6.77) spend by 30%
 
 - **Expected Impact:**
-  - 	Cutting Email Marketing platform saves $24,461.3 with minimal revenue impact
-  - 	Cutting spending on Facebook Ads by 8.5% & low performing Month by 30% will save in total 20% of the Annual Marketing Spend.
+  - Cutting Email Marketing platform saves $24,461.3 with minimal revenue impact
+  - Cutting spending on Facebook Ads by 8.5% & low performing Month by 30% will save in total 20% of the Annual Marketing Spend.
 
 ### Recommendation 2: Shift Focus to High Margin Categories
 - **Action:**
-  - 	Increase promotion and inventory focus on high margin categories like Electronics (31%), Toy (26%)
-  - 	Reduce emphasis on Books (12%) unless cost structure is optimized
+  - Increase promotion and inventory focus on high margin categories like Electronics (31%), Toy (26%)
+  - Reduce emphasis on Books (12%) unless cost structure is optimized
 - **Expected Impact:**
-  - 	Improve overall profit margin 
+  - Improve overall profit margin 
 
 ### Recommendation 3: Reduce Cost in Low-Margin Categories
 - **Action:**
-  - 	Optimize cost heavy categories especially Books.
-  - 	Negotiate supplier pricing 
-  - 	Reduce shipping / Logistics costs
+  - Optimize cost heavy categories especially Books.
+  - Negotiate supplier pricing 
+  - Reduce shipping / Logistics costs
 
 - **Expected Impact:**
-  - 	Even 5-10% cost reduction will lead to 3-5% margin improvement 
-  - 	It can increase books margin from 12% to 15-18%.
+  - Even 5-10% cost reduction will lead to 3-5% margin improvement 
+  - It can increase books margin from 12% to 15-18%.
 
 ### Recommendation 4: Reduce Return in High-Impact Categories
 - **Action:**
-  - 	Target high -return categories Electronics & clothing..
-  - 	Improve product description especially for clothing & improve customer targeting and quality control
+  - Target high -return categories Electronics & clothing..
+  - Improve product description especially for clothing & improve customer targeting and quality control
 
 - **Expected Impact:**
-  - 	Reduce return rate from 8.2% - 7% of high return category
-  - 	Improve margins without increasing sales
+  - Reduce return rate from 8.2% - 7% of high return category
+  - Improve margins without increasing sales
 
 ---
 
