@@ -64,7 +64,7 @@
  
 ## 2. Problem Statement
 
-BrightCart has generated over $1M in gross revenue over the past two years, yet the company is experiencing declining net profit margins. This indicates that while sales performance is strong, underlying cost structures and operational inefficiencies are impacting overall profitability.
+BrightCart has generated over $1M in gross revenue over the past two years, yet the company is experiencing declining net profit margins. This indicates that while sales performance is strong, underlying cost structures and operational inefficiencies are impacting overall profitability. The e-commerce company also aims to improve profitability by reducing its marketing budget by 20% without significantly impacting revenue growth. While marketing campaigns have contributed to customer acquisition and sales, management believes that certain channels and periods may be generating low returns on investment, resulting in unnecessary spending
 The key business challenge is to identify where profits are being lost across:
 -	Product categories (cost vs margin differences)
 -	Sales channels (platform fees and efficiency)
@@ -79,6 +79,7 @@ This analysis aims to provide data-driven insights to help the CEO make informed
 -	Improving channel performance
 -	Reducing waste in marketing spend
 -	Minimizing the financial impact of returns
+The findings will help the company make data-driven decisions to achieve a 20% reduction in marketing expenses while maintaining profitability and supporting long-term business growth.
 
  --- 
  
